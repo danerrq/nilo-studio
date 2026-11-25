@@ -1,0 +1,8 @@
+name: 💡 Idea o estilo nuevo
+description: Propón una mejora o un estilo de vídeo.
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes: { label: Tu idea, description: ¿Qué te gustaría que hiciera Nilo Studio? }
+    validations: { required: true }

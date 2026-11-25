@@ -1,0 +1,16 @@
+name: 🐞 Algo falla
+description: Cuéntanos qué pasó para arreglarlo.
+labels: [fallo]
+body:
+  - type: textarea
+    id: que
+    attributes: { label: ¿Qué pasó?, description: Qué hacías y qué salió mal. Si puedes, añade una captura. }
+    validations: { required: true }
+  - type: input
+    id: version
+    attributes: { label: Versión de Nilo Studio, description: La ves en Configuración › Licencia y versión., placeholder: "1.0.0" }
+  - type: dropdown
+    id: donde
+    attributes: { label: ¿Dónde?, options: [Crear vídeo, Subir mi vídeo, Estilos, Calendario y programación, Redes, Licencia, Instalación, Otra cosa] }
+  - type: markdown
+    attributes: { value: "No escribas aquí tu clave de licencia ni tu correo: este espacio es público." }
