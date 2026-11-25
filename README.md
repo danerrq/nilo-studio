@@ -213,3 +213,7 @@ Claude y Claude Code son de Anthropic. TikTok, Instagram, Facebook y YouTube son
 <sub>Este repositorio publica las versiones y novedades de Nilo Studio. La app es software comercial: el código no es abierto y los paquetes de actualización solo funcionan con una licencia activa.</sub>
 
 </div>
+
+---
+
+**Licencia:** Nilo Studio es software propietario con licencia exclusiva. No es código abierto. Ver [LICENSE.md](LICENSE.md).
