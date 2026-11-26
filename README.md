@@ -5,11 +5,11 @@
   <img src="assets/logo-claro.svg" alt="Nilo Studio" height="88">
 </picture>
 
-### Crea vídeos con IA para TikTok, Reels y Shorts en tu Mac. Sin editar nada.
+### Nilo Studio IA · Como CapCut, pero edita por ti. Vídeos con IA para TikTok, Reels y Shorts en tu Mac.
 **Una idea → un vídeo animado con tu voz → programado en TikTok, Instagram, YouTube y Facebook.**
 **Sin editar nada.**
 
-[![Nilo Studio Pro](https://img.shields.io/badge/Nilo_Studio_Pro-desde_USD_9%2C99%2Fmes-7C3AED?style=for-the-badge)](https://gumroad.com/l/nilostudio-pro)
+[![Obtén Nilo Studio](https://img.shields.io/badge/Obt%C3%A9n-Nilo_Studio-7C3AED?style=for-the-badge)](https://danerrq.github.io/)
 [![Estrellas](https://img.shields.io/github/stars/danerrq/nilo-studio?style=for-the-badge&color=F5B83D&label=%E2%98%85%20estrellas)](https://github.com/danerrq/nilo-studio/stargazers)
 [![Versión](https://img.shields.io/github/v/release/danerrq/nilo-studio?style=for-the-badge&color=22C55E&label=versi%C3%B3n)](https://github.com/danerrq/nilo-studio/releases)
 
@@ -24,6 +24,25 @@
 <img src="assets/inicio-oscuro.jpg" alt="Nilo Studio: pantalla de inicio" width="100%">
 
 </div>
+
+---
+
+## 🆕 Lo nuevo
+
+| | |
+|---|---|
+| ✂️ **Nilo Cut** | Tu editor automático: subes tus vídeos, fotos y audios (o una carpeta), cuentas qué quieres lograr y la app los ordena, quita silencios y les pone subtítulos y transiciones. |
+| 💬 **Subtítulos a tu gusto** | 10 estilos animados (palabra clave, karaoke, marcador, bilingüe…) con tus colores, tu letra, tamaño y posición. |
+| 🎥 **Vídeos y música reales** | Tomas de apoyo de Pexels, Wikimedia y NASA, y música libre de derechos, con su crédito. |
+| 📺 **Vídeos largos y miniseries** | Para YouTube, por capítulos, con fotos reales o animación, y un teaser de cada capítulo. |
+| 🚀 **Hecho para viralizar** | Palabra clave, texto alternativo, temas y hashtags de cada red, y una revisión antes de publicar. |
+| 🔔 **Siempre conectada** | Te avisa al momento si una red se desconecta. |
+
+<img src="assets/nilocut-oscuro.jpg" alt="Nilo Cut: tu editor automático" width="100%">
+
+<img src="assets/subtitulos-oscuro.jpg" alt="Subtítulos animados y personalizables" width="100%">
+
+<img src="assets/largos-oscuro.jpg" alt="Vídeos largos con teaser de ejemplo" width="100%">
 
 ---
 
@@ -123,19 +142,13 @@ Pizarra, acuarela, papel recortado, 3D, pixel art, cómic, holograma, prensa ant
 
 ---
 
-## 💳 Precio
+## 🎟️ Obtén Nilo Studio
 
 <div align="center">
 
-### Nilo Studio Pro
+Plan mensual o anual · licencia personal para **hasta 2 Mac tuyos** · actualizaciones incluidas · cancela cuando quieras.
 
-| **Pro mensual** | **Pro anual** · mejor valor |
-|:---:|:---:|
-| **USD 9,99** al mes | **USD 79** al año (más de 4 meses gratis) |
-
-Todo Nilo Studio · licencia personal para **hasta 2 Mac tuyos** · actualizaciones incluidas · cancela cuando quieras · **Garantía de 14 días**.
-
-**[→ Obtener Pro](https://gumroad.com/l/nilostudio-pro)** · Más información en **[la web](https://danerrq.github.io)**
+**[→ Obtén Nilo Studio en la web](https://danerrq.github.io/)**
 
 </div>
 
