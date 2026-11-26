@@ -11,7 +11,6 @@
 
 [![Obtén Nilo Studio](https://img.shields.io/badge/Obt%C3%A9n-Nilo_Studio-7C3AED?style=for-the-badge)](https://danerrq.github.io/)
 [![Estrellas](https://img.shields.io/github/stars/danerrq/nilo-studio?style=for-the-badge&color=F5B83D&label=%E2%98%85%20estrellas)](https://github.com/danerrq/nilo-studio/stargazers)
-[![Versión](https://img.shields.io/github/v/release/danerrq/nilo-studio?style=for-the-badge&color=22C55E&label=versi%C3%B3n)](https://github.com/danerrq/nilo-studio/releases)
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Claude](https://img.shields.io/badge/funciona_con-Claude_Code-D97757?style=flat-square)
@@ -162,12 +161,12 @@ Plan mensual o anual · licencia personal para **hasta 2 Mac tuyos** · actualiz
 
 ## 🚀 Instalación
 
-1. Elige tu plan Pro. Te llega al correo el enlace de descarga y tu clave de licencia.
+1. Elige tu plan Pro en [la web](https://danerrq.github.io/#precio). Tras el pago te llega al correo la descarga y tu clave de licencia. **La app solo se obtiene así: este repositorio no tiene descargas.**
 2. Descomprime **NiloStudio**, muévela a Documentos y ábrela en Claude Code.
 3. Escribe *«instala Nilo Studio»*. Claude lo prepara todo y deja la app **Nilo Studio** en Aplicaciones y en el Dock.
 4. Pega tu clave y sigue la encuesta de 5 minutos, o importa tu perfil desde tu chat.
 
-Las actualizaciones llegan solas: la app te avisa y se instalan con un clic.
+Las actualizaciones llegan solas dentro de la app mientras tu plan esté activo: te avisa y se instalan con un clic.
 
 ---
 
@@ -221,7 +220,7 @@ Claude y Claude Code son de Anthropic. TikTok, Instagram, Facebook y YouTube son
 
 ### ⭐ Si te gusta, dale una estrella: así más creadores lo encuentran.
 
-**[Instagram](https://www.instagram.com/daner_q/)** · **[Obtener Pro](https://gumroad.com/l/nilostudio-pro)** · **[Versiones](https://github.com/danerrq/nilo-studio/releases)**
+**[Instagram](https://www.instagram.com/daner_q/)** · **[Obtener Pro](https://gumroad.com/l/nilostudio-pro)** · **[Web](https://danerrq.github.io/)**
 
 <sub>Este repositorio publica las versiones y novedades de Nilo Studio. La app es software comercial: el código no es abierto y los paquetes de actualización solo funcionan con una licencia activa.</sub>
 
